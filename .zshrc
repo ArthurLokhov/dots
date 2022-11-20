@@ -2,7 +2,7 @@
 alias cls="clear"
 alias g="git"
 alias ss="source ~/.zshrc"
-alias exa="exa --color --time-style=long-iso"
+alias exa="exa --color=always --time-style=long-iso"
 alias ls="exa"
 alias la="ls --long --header --icons"
 alias lg="ls --long --header --icons --git"
